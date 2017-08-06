@@ -1,3 +1,3 @@
 # Project AVA
 
-Artificial Vocal Assistant
+Artificial Vocal Assistant plugin oriented
